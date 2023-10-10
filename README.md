@@ -1,4 +1,5 @@
-# c
+# 공지사항
+
 C Language
 
 ## replit 사용법
