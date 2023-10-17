@@ -2,6 +2,18 @@
 
 C Language
 
+## 배웠던 언어 자료실
+
+배웠던 언어인 오토핫키와 파이썬의 코드와 C언어 비교를 통해 진정으로 언어를 배운다.
+
+1. 오토핫키
+
+https://pnal.kr/
+
+2. 파이썬
+
+https://wikidocs.net/book/9159
+
 ## replit 사용법
 
 https://youtu.be/PSG7e5WE4_U
