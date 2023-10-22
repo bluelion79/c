@@ -2,7 +2,7 @@
 main( ) 
 {
   int a, b;
-  printf("µÎ ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+  printf("ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
   scanf("%d %d", &a, &b);
   printf("%d + %d = %d\n", a, b, a + b);
   printf("%d - %d = %d\n", a, b, a - b);
