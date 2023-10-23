@@ -2,6 +2,12 @@
 
 C Language
 
+## 수행평가
+
+3차 수행평가
+
+https://forms.gle/WqHVcuneeMXuGzFu6
+
 ## 배웠던 언어 자료실
 
 배웠던 언어인 오토핫키와 파이썬의 코드와 C언어 비교를 통해 진정으로 언어를 배운다.
